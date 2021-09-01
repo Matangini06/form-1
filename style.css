@@ -42,27 +42,27 @@ body{
 
 #Email{
 	width: 560px;
-	padding: 15px;
+	padding: 20px;
 	border-radius: 10px;
 }
 
 #Phone{
 	width: 560px;
-	padding: 15px;
+	padding: 20px;
 	border-radius: 10px;
 }
 
 
 #comment{
 	border-radius: 5px;
-	padding: 50px;
+	padding: 60px;
 	border: none;
 	width: 500px;
 }
 
 #submit{
 	width: 600px;
-	padding: 20px;
+	padding: 30px;
 	font-size: 20px;
 	border-radius: 10px;
 	border: none;
@@ -84,32 +84,32 @@ body{
 	}
 	#name{
 	width: 370px;
-	padding: 15px;
+	padding: 20px;
 	border-radius: 5px;
     }
 
     #Email{
 	width: 370px;
-	padding: 15px;
+	padding: 20px;
 	border-radius: 5px;
     }
 
     #Phone{
 	width: 370px;
-	padding: 15px;
+	padding: 20px;
 	border-radius: 5px;
     }
 
     #comment{
 	border-radius: 5px;
-	padding: 50px;
+	padding: 60px;
 	border: none;
 	width: 300px;
     }
 
     #submit{
 	width: 400px;
-	padding: 20px;
+	padding: 30px;
 	font-size: 20px;
 	border-radius: 10px;
 	border: none;
