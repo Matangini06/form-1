@@ -35,6 +35,7 @@ body{
 }
 
 #name{
+	height: 100px;
 	width: 560px;
 	padding: 15px;
 	border-radius: 10px;
